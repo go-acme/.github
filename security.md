@@ -2,13 +2,16 @@
 
 ## Supported Versions
 
-We only support the latest version of golangci-lint with the two most recent minor versions of Go.
+Only the latest version of lego is supported.
+
+We will only release security updates for the latest version.
 
 ## Reporting a Vulnerability
 
-To report a potential security vulnerability, please create a [security advisory](https://github.com/go-acme/lego/security/advisories/new).
+We want to keep our software safe for everyone.
 
-For us to respond to your report most effectively, please include any of the following:
+If you've discovered a security vulnerability in lego,
+we appreciate your help in disclosing it to us in a responsible manner,
+by creating a [security advisory](https://github.com/go-acme/lego/security/advisories).
 
-- Steps to reproduce or a proof-of-concept
-- Any relevant information, including the versions used
+Reported vulnerabilities can be found on [cve.mitre.org](https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=lego).
